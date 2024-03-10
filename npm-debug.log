@@ -1,0 +1,1213 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/nix/store/dj805sw07vvpbxx39c8g67x8qddg0ikw-nodejs-18.12.1/bin/node',
+1 verbose cli   '/home/runner/K15/node_modules/.bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '\\x63\\x68\\x65\\x65\\x72\\x69\\x6f',
+1 verbose cli   '\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69',
+1 verbose cli   '\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68',
+1 verbose cli   '\\x6f\\x70\\x65\\x6e\\x61\\x69',
+1 verbose cli   '\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73',
+1 verbose cli   '\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73',
+1 verbose cli   '\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+1 verbose cli   '\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73',
+1 verbose cli   '\\x6a\\x69\\x6d\\x70',
+1 verbose cli   '\\x61\\x78\\x69\\x6f\\x73',
+1 verbose cli   '\\x66\\x73',
+1 verbose cli   '\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61',
+1 verbose cli   '\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65',
+1 verbose cli   '\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79',
+1 verbose cli   '\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+1 verbose cli   '\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68',
+1 verbose cli   '\\x70\\x61\\x74\\x68',
+1 verbose cli   '\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73',
+1 verbose cli   '\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65',
+1 verbose cli   '\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73',
+1 verbose cli   '\\x75\\x74\\x69\\x6c',
+1 verbose cli   '\\x6f\\x73'
+1 verbose cli ]
+2 info using npm@2.15.12
+3 info using node@v18.12.1
+4 verbose install initial load of /home/runner/K15/package.json
+5 warn package.json TheMystic-Bot-MD@1.0.0 license should be a valid SPDX license expression
+6 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/abab/package.json
+7 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/abbrev/package.json
+8 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/abort-controller/package.json
+9 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/accepts/package.json
+10 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acorn/package.json
+11 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acorn-globals/package.json
+12 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acorn-jsx/package.json
+13 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acorn-node/package.json
+14 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acorn-walk/package.json
+15 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/acrcloud/package.json
+16 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/agent-base/package.json
+17 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ajv/package.json
+18 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ansi/package.json
+19 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ansi-escapes/package.json
+20 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ansi-regex/package.json
+21 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ansi-styles/package.json
+22 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/any-base/package.json
+23 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/api-dylux/package.json
+24 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/app-path/package.json
+25 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/aptoide-scraper/package.json
+26 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/are-we-there-yet/package.json
+27 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/argparse/package.json
+28 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/args/package.json
+29 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/array-back/package.json
+30 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/array-buffer-byte-length/package.json
+31 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/array-flatten/package.json
+32 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/array-range/package.json
+33 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/asn1/package.json
+34 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/assert-plus/package.json
+35 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/astral-regex/package.json
+36 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async/package.json
+37 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.parallellimit/package.json
+38 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.eachoflimit/package.json
+39 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.isarray/package.json
+40 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.isarraylike/package.json
+41 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.keyiterator/package.json
+42 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.keys/package.json
+43 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.noop/package.json
+44 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.once/package.json
+45 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.onlyonce/package.json
+46 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.parallel/package.json
+47 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/async.util.restparam/package.json
+48 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/asynckit/package.json
+49 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/atomic-sleep/package.json
+50 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/audio-buffer/package.json
+51 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/audio-decode/package.json
+52 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/audio-type/package.json
+53 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/available-typed-arrays/package.json
+54 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/awesome-phonenumber/package.json
+55 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/aws-sign2/package.json
+56 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/aws4/package.json
+57 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/axios/package.json
+58 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/balanced-match/package.json
+59 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/base64-js/package.json
+60 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/base64id/package.json
+61 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bcrypt-pbkdf/package.json
+62 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/big-integer/package.json
+63 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bignumber.js/package.json
+64 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/biskviit/package.json
+65 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bl/package.json
+66 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bmp-js/package.json
+67 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/body-parser/package.json
+68 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/boolbase/package.json
+69 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/boolstring/package.json
+70 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bowser/package.json
+71 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/brace-expansion/package.json
+72 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/brotli/package.json
+73 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/browser-process-hrtime/package.json
+74 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bson/package.json
+75 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/buffer/package.json
+76 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/buffer-equal/package.json
+77 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/buffer-equal-constant-time/package.json
+78 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/bytes/package.json
+79 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cache-manager/package.json
+80 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cacheable-lookup/package.json
+81 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cacheable-request/package.json
+82 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/call-bind/package.json
+83 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/callsites/package.json
+84 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/camelcase/package.json
+85 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/caseless/package.json
+86 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cfonts/package.json
+87 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/chalk/package.json
+88 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/charenc/package.json
+89 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cheerio/package.json
+90 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cheerio-select/package.json
+91 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/chownr/package.json
+92 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cli-color/package.json
+93 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cli-cursor/package.json
+94 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cli-spinners/package.json
+95 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cliui/package.json
+96 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/clone/package.json
+97 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/clone-response/package.json
+98 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/codec-parser/package.json
+99 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/color/package.json
+100 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/color-convert/package.json
+101 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/color-name/package.json
+102 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/color-string/package.json
+103 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/colorette/package.json
+104 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/colors/package.json
+105 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/combined-stream/package.json
+106 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/command-line-args/package.json
+107 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/component-emitter/package.json
+108 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/concat-map/package.json
+109 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/configstore/package.json
+110 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/content-disposition/package.json
+111 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/content-type/package.json
+112 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cookie/package.json
+113 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cookie-signature/package.json
+114 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cookiejar/package.json
+115 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/core-util-is/package.json
+116 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cors/package.json
+117 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cross-fetch/package.json
+118 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cross-spawn/package.json
+119 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/crypt/package.json
+120 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/crypto-js/package.json
+121 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/crypto-random-string/package.json
+122 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/css-select/package.json
+123 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/css-what/package.json
+124 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cssom/package.json
+125 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cssstyle/package.json
+126 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/curve25519-js/package.json
+127 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/cycled/package.json
+128 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/d/package.json
+129 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dandi-api/package.json
+130 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dashdash/package.json
+131 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dasu/package.json
+132 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/data-uri-to-buffer/package.json
+133 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/data-urls/package.json
+134 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dateformat/package.json
+135 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/debug/package.json
+136 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/decamelize/package.json
+137 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/decimal.js/package.json
+138 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/decode-gif/package.json
+139 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/decompress-response/package.json
+140 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/deep-equal/package.json
+141 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/deep-extend/package.json
+142 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/deep-is/package.json
+143 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/defaults/package.json
+144 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/defer-to-connect/package.json
+145 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/define-data-property/package.json
+146 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/define-properties/package.json
+147 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/define-property/package.json
+148 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/delay/package.json
+149 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/delayed-stream/package.json
+150 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/delegates/package.json
+151 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/depd/package.json
+152 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/destroy/package.json
+153 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/detect-libc/package.json
+154 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dfa/package.json
+155 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dijkstrajs/package.json
+156 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/discord-api-types/package.json
+157 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/discord.js/package.json
+158 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/doctrine/package.json
+159 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dom-serializer/package.json
+160 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dom-walk/package.json
+161 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/domelementtype/package.json
+162 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/domexception/package.json
+163 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/domhandler/package.json
+164 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/domutils/package.json
+165 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/dot-prop/package.json
+166 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/duplexer3/package.json
+167 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/duplexify/package.json
+168 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ecc-jsbn/package.json
+169 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ecdsa-sig-formatter/package.json
+170 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ee-first/package.json
+171 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/emoji-regex/package.json
+172 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/encode-utf8/package.json
+173 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/encodeurl/package.json
+174 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/encoding/package.json
+175 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/end-of-stream/package.json
+176 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/engine.io/package.json
+177 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/engine.io-parser/package.json
+178 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/entities/package.json
+179 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/es-get-iterator/package.json
+180 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/es5-ext/package.json
+181 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/es6-iterator/package.json
+182 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/es6-symbol/package.json
+183 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/es6-weak-map/package.json
+184 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/escalade/package.json
+185 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/escape-html/package.json
+186 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/escape-string-regexp/package.json
+187 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/escodegen/package.json
+188 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/eslint/package.json
+189 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/eslint-config-google/package.json
+190 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/eslint-scope/package.json
+191 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/eslint-visitor-keys/package.json
+192 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/espree/package.json
+193 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/esprima/package.json
+194 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/esquery/package.json
+195 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/esrecurse/package.json
+196 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/estraverse/package.json
+197 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/esutils/package.json
+198 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/etag/package.json
+199 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/event-emitter/package.json
+200 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/event-target-shim/package.json
+201 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/execa/package.json
+202 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/exif-parser/package.json
+203 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/expand-template/package.json
+204 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/express/package.json
+205 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ext/package.json
+206 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/extend/package.json
+207 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/extsprintf/package.json
+208 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fake-useragent/package.json
+209 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-deep-equal/package.json
+210 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-json-stable-stringify/package.json
+211 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-levenshtein/package.json
+212 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-redact/package.json
+213 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-safe-stringify/package.json
+214 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fast-xml-parser/package.json
+215 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fastq/package.json
+216 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fb-downloader-scrapper/package.json
+217 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fetch/package.json
+218 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fetch-blob/package.json
+219 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/file-entry-cache/package.json
+220 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/file-type/package.json
+221 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/file_size_url/package.json
+222 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/finalhandler/package.json
+223 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/find-replace/package.json
+224 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/find-up/package.json
+225 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/flat-cache/package.json
+226 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/flatted/package.json
+227 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fluent-ffmpeg/package.json
+228 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/follow-redirects/package.json
+229 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fontkit/package.json
+230 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/for-each/package.json
+231 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/forever-agent/package.json
+232 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/form-data/package.json
+233 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/form-data-encoder/package.json
+234 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/formdata-node/package.json
+235 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/formdata-polyfill/package.json
+236 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/formidable/package.json
+237 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/forwarded/package.json
+238 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fresh/package.json
+239 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fs/package.json
+240 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fs-constants/package.json
+241 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fs-extra/package.json
+242 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/fs.realpath/package.json
+243 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/function-bind/package.json
+244 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/functions-have-names/package.json
+245 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/futoin-hkdf/package.json
+246 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gauge/package.json
+247 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gaxios/package.json
+248 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gcp-metadata/package.json
+249 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/get-caller-file/package.json
+250 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/get-intrinsic/package.json
+251 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/get-stream/package.json
+252 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/getpass/package.json
+253 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gifwrap/package.json
+254 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/github-from-package/package.json
+255 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/glob/package.json
+256 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/glob-parent/package.json
+257 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/global/package.json
+258 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/globals/package.json
+259 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/google-auth-library/package.json
+260 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/google-it/package.json
+261 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/googleapis/package.json
+262 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/googleapis-common/package.json
+263 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gopd/package.json
+264 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/got/package.json
+265 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/graceful-fs/package.json
+266 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/graphemer/package.json
+267 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/gtoken/package.json
+268 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/har-schema/package.json
+269 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/har-validator/package.json
+270 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has/package.json
+271 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-bigints/package.json
+272 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-flag/package.json
+273 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-property-descriptors/package.json
+274 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-proto/package.json
+275 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-symbols/package.json
+276 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-tostringtag/package.json
+277 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/has-unicode/package.json
+278 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/hispamemes/package.json
+279 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/html-encoding-sniffer/package.json
+280 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/htmlparser2/package.json
+281 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/http-cache-semantics/package.json
+282 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/http-errors/package.json
+283 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/http-proxy-agent/package.json
+284 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/http-signature/package.json
+285 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/http2-wrapper/package.json
+286 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/https-proxy-agent/package.json
+287 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/human-readable/package.json
+288 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/human-signals/package.json
+289 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/human-time/package.json
+290 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/iconv-lite/package.json
+291 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ieee754/package.json
+292 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ignore/package.json
+293 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/image-q/package.json
+294 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/image-size/package.json
+295 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/imagemaker.js/package.json
+296 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/import-fresh/package.json
+297 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/imurmurhash/package.json
+298 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/inflight/package.json
+299 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/inherits/package.json
+300 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ini/package.json
+301 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/insta-fetcher/package.json
+302 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/instagram-url-direct/package.json
+303 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/internal-slot/package.json
+304 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ip/package.json
+305 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ip-regex/package.json
+306 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ipaddr.js/package.json
+307 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-accessor-descriptor/package.json
+308 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-arguments/package.json
+309 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-array-buffer/package.json
+310 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-arrayish/package.json
+311 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-bigint/package.json
+312 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-boolean-object/package.json
+313 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-buffer/package.json
+314 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-callable/package.json
+315 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-data-descriptor/package.json
+316 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-date-object/package.json
+317 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-descriptor/package.json
+318 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-extglob/package.json
+319 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-fullwidth-code-point/package.json
+320 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-function/package.json
+321 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-glob/package.json
+322 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-interactive/package.json
+323 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-map/package.json
+324 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-number/package.json
+325 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-number-object/package.json
+326 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-obj/package.json
+327 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-path-inside/package.json
+328 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-potential-custom-element-name/package.json
+329 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-promise/package.json
+330 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-regex/package.json
+331 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-set/package.json
+332 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-shared-array-buffer/package.json
+333 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-stream/package.json
+334 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-string/package.json
+335 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-symbol/package.json
+336 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-typed-array/package.json
+337 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-typedarray/package.json
+338 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-weakmap/package.json
+339 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/is-weakset/package.json
+340 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/isarray/package.json
+341 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/isexe/package.json
+342 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/isstream/package.json
+343 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/iterm2-version/package.json
+344 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jimp/package.json
+345 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/joycon/package.json
+346 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jpeg-js/package.json
+347 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/js-yaml/package.json
+348 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsbarcode/package.json
+349 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsbn/package.json
+350 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsdom/package.json
+351 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsdon/package.json
+352 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-bigint/package.json
+353 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-buffer/package.json
+354 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-schema/package.json
+355 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-schema-traverse/package.json
+356 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-stable-stringify-without-jsonify/package.json
+357 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/json-stringify-safe/package.json
+358 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsonfile/package.json
+359 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsonpath-plus/package.json
+360 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jsprim/package.json
+361 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jwa/package.json
+362 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/jws/package.json
+363 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/kareem/package.json
+364 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/keypress/package.json
+365 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/keyv/package.json
+366 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/kind-of/package.json
+367 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/leven/package.json
+368 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/levenshtein-edit-distance/package.json
+369 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/levn/package.json
+370 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/libphonenumber-js/package.json
+371 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/libsignal/package.json
+372 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/linebreak/package.json
+373 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/link-preview-js/package.json
+374 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/load-bmfont/package.json
+375 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/locate-path/package.json
+376 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash/package.json
+377 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.camelcase/package.json
+378 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.clonedeep/package.json
+379 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.merge/package.json
+380 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.pad/package.json
+381 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.padend/package.json
+382 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lodash.padstart/package.json
+383 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/log-symbols/package.json
+384 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/log-update/package.json
+385 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/long/package.json
+386 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lowdb/package.json
+387 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lowercase-keys/package.json
+388 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lru-cache/package.json
+389 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/lru-queue/package.json
+390 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/m3u8stream/package.json
+391 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/make-dir/package.json
+392 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/md5/package.json
+393 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/media-typer/package.json
+394 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/memoizee/package.json
+395 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/memory-pager/package.json
+396 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/merge-descriptors/package.json
+397 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/merge-stream/package.json
+398 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/methods/package.json
+399 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mime/package.json
+400 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mime-db/package.json
+401 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mime-types/package.json
+402 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mimic-fn/package.json
+403 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mimic-response/package.json
+404 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/min-document/package.json
+405 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/miniget/package.json
+406 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/minimatch/package.json
+407 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/minimist/package.json
+408 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mkdirp/package.json
+409 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mkdirp-classic/package.json
+410 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/moment/package.json
+411 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/moment-timezone/package.json
+412 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mongodb/package.json
+413 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mongodb-connection-string-url/package.json
+414 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mongoose/package.json
+415 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mpath/package.json
+416 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mpg123-decoder/package.json
+417 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mquery/package.json
+418 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mri/package.json
+419 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ms/package.json
+420 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/multistream/package.json
+421 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/music-metadata/package.json
+422 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/mute-stream/package.json
+423 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/napi-build-utils/package.json
+424 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/natural-compare/package.json
+425 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/negotiator/package.json
+426 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/next-tick/package.json
+427 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-abi/package.json
+428 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-addon-api/package.json
+429 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-cache/package.json
+430 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-domexception/package.json
+431 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-fetch/package.json
+432 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-fzf/package.json
+433 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-gtts/package.json
+434 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-id3/package.json
+435 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-wav/package.json
+436 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/node-webpmux/package.json
+437 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/nopt/package.json
+438 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/normalize-url/package.json
+439 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/npm/package.json
+440 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/npm-run-path/package.json
+441 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/npmlog/package.json
+442 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/nth-check/package.json
+443 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/nwsapi/package.json
+444 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/oauth-sign/package.json
+445 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/object-assign/package.json
+446 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/object-inspect/package.json
+447 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/object-is/package.json
+448 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/object-keys/package.json
+449 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/object.assign/package.json
+450 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ogg-opus-decoder/package.json
+451 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/omggif/package.json
+452 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/on-exit-leak-free/package.json
+453 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/on-finished/package.json
+454 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/once/package.json
+455 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/onetime/package.json
+456 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/openai/package.json
+457 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/optionator/package.json
+458 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/opus-decoder/package.json
+459 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ora/package.json
+460 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/p-cancelable/package.json
+461 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/p-limit/package.json
+462 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/p-locate/package.json
+463 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/p-try/package.json
+464 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pako/package.json
+465 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parent-module/package.json
+466 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse-bmfont-ascii/package.json
+467 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse-bmfont-binary/package.json
+468 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse-bmfont-xml/package.json
+469 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse-headers/package.json
+470 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse5/package.json
+471 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parse5-htmlparser2-tree-adapter/package.json
+472 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/parseurl/package.json
+473 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/path-exists/package.json
+474 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/path-is-absolute/package.json
+475 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/path-key/package.json
+476 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/path-to-regexp/package.json
+477 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pdfkit/package.json
+478 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/peek-readable/package.json
+479 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/perf_hooks/package.json
+480 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/performance-now/package.json
+481 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/phin/package.json
+482 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pino/package.json
+483 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pino-abstract-transport/package.json
+484 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pino-pretty/package.json
+485 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pino-std-serializers/package.json
+486 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pixelmatch/package.json
+487 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/plist/package.json
+488 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/png-js/package.json
+489 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pngjs/package.json
+490 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/prebuild-install/package.json
+491 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/prelude-ls/package.json
+492 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/prepend-http/package.json
+493 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/process/package.json
+494 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/process-nextick-args/package.json
+495 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/process-warning/package.json
+496 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/protobufjs/package.json
+497 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/proxy-addr/package.json
+498 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/proxy-from-env/package.json
+499 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/psl/package.json
+500 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/publish/package.json
+501 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/pump/package.json
+502 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/punycode/package.json
+503 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/qoa-format/package.json
+504 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/qrcode/package.json
+505 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/qrcode-terminal/package.json
+506 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/qs/package.json
+507 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/querystring/package.json
+508 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/querystringify/package.json
+509 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/queue/package.json
+510 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/queue-microtask/package.json
+511 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/quick-format-unescaped/package.json
+512 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/quick-lru/package.json
+513 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/range-parser/package.json
+514 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/raw-body/package.json
+515 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/rc/package.json
+516 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/readable-stream/package.json
+517 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/readable-web-to-node-stream/package.json
+518 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/readline/package.json
+519 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/real-require/package.json
+520 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/redstar/package.json
+521 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/regenerator-runtime/package.json
+522 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/regexp.prototype.flags/package.json
+523 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/render-gif/package.json
+524 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/request/package.json
+525 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/require-directory/package.json
+526 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/require-main-filename/package.json
+527 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/requires-port/package.json
+528 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/resolve-alpn/package.json
+529 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/resolve-from/package.json
+530 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/responselike/package.json
+531 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/restore-cursor/package.json
+532 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/restructure/package.json
+533 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/reusify/package.json
+534 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/rfdc/package.json
+535 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/rimraf/package.json
+536 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/run-parallel/package.json
+537 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/safe-buffer/package.json
+538 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/safe-stable-stringify/package.json
+539 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/safer-buffer/package.json
+540 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sax/package.json
+541 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/saxes/package.json
+542 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/secure-json-parse/package.json
+543 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/semver/package.json
+544 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/send/package.json
+545 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/serve-static/package.json
+546 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/set-blocking/package.json
+547 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/set-function-name/package.json
+548 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/setprototypeof/package.json
+549 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sharp/package.json
+550 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/shebang-command/package.json
+551 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/shebang-regex/package.json
+552 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/side-channel/package.json
+553 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sift/package.json
+554 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/signal-exit/package.json
+555 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/similarity/package.json
+556 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/simple-concat/package.json
+557 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/simple-get/package.json
+558 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/simple-swizzle/package.json
+559 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/slice-ansi/package.json
+560 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/smart-buffer/package.json
+561 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/socket.io/package.json
+562 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/socket.io-adapter/package.json
+563 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/socket.io-parser/package.json
+564 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/socks/package.json
+565 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sonic-boom/package.json
+566 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/source-map/package.json
+567 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sparse-bitfield/package.json
+568 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/split2/package.json
+569 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/spotify-web-api-node/package.json
+570 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/spotifydl-x/package.json
+571 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/sshpk/package.json
+572 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/statuses/package.json
+573 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/steno/package.json
+574 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/stop-iteration-iterator/package.json
+575 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/stream-shift/package.json
+576 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/string-width/package.json
+577 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/string_decoder/package.json
+578 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/strip-ansi/package.json
+579 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/strip-final-newline/package.json
+580 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/strip-json-comments/package.json
+581 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/strnum/package.json
+582 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/strtok3/package.json
+583 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/superagent/package.json
+584 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/supports-color/package.json
+585 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/symbol-tree/package.json
+586 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/syntax-error/package.json
+587 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tar-fs/package.json
+588 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tar-stream/package.json
+589 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/term-img/package.json
+590 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/terminal-image/package.json
+591 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/text-table/package.json
+592 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/thread-stream/package.json
+593 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/timers-ext/package.json
+594 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/timm/package.json
+595 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tiny-inflate/package.json
+596 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tinycolor2/package.json
+597 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tlds/package.json
+598 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/to-readable-stream/package.json
+599 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/toidentifier/package.json
+600 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/token-types/package.json
+601 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tough-cookie/package.json
+602 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tr46/package.json
+603 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ts-mixer/package.json
+604 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tslib/package.json
+605 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ttys/package.json
+606 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tunnel-agent/package.json
+607 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/tweetnacl/package.json
+608 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/type/package.json
+609 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/type-check/package.json
+610 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/type-fest/package.json
+611 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/type-is/package.json
+612 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/typedarray-to-buffer/package.json
+613 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/typescript/package.json
+614 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/typical/package.json
+615 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/unicode-properties/package.json
+616 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/unicode-trie/package.json
+617 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/unique-string/package.json
+618 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/universalify/package.json
+619 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/unpipe/package.json
+620 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/uri-js/package.json
+621 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/url/package.json
+622 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/url-parse/package.json
+623 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/url-parse-lax/package.json
+624 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/url-regex-safe/package.json
+625 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/url-template/package.json
+626 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/utif/package.json
+627 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/util-deprecate/package.json
+628 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/utils-merge/package.json
+629 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/uuid/package.json
+630 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/vary/package.json
+631 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/verror/package.json
+632 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/w3c-hr-time/package.json
+633 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/w3c-xmlserializer/package.json
+634 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/wa-sticker-formatter/package.json
+635 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/wcwidth/package.json
+636 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/web-streams-polyfill/package.json
+637 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/webidl-conversions/package.json
+638 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/whatwg-encoding/package.json
+639 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/whatwg-mimetype/package.json
+640 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/whatwg-url/package.json
+641 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/which/package.json
+642 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/which-boxed-primitive/package.json
+643 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/which-collection/package.json
+644 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/which-module/package.json
+645 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/which-typed-array/package.json
+646 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/window-size/package.json
+647 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/wrap-ansi/package.json
+648 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/wrappy/package.json
+649 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/write-file-atomic/package.json
+650 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ws/package.json
+651 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xdg-basedir/package.json
+652 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xhr/package.json
+653 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xml-name-validator/package.json
+654 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xml-parse-from-string/package.json
+655 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xml2js/package.json
+656 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xmlbuilder/package.json
+657 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xmlchars/package.json
+658 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xmldom/package.json
+659 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/xtend/package.json
+660 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/y18n/package.json
+661 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/yallist/package.json
+662 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/yargs/package.json
+663 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/yargs-parser/package.json
+664 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/yocto-queue/package.json
+665 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/youtubedl-core/package.json
+666 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/yt-search/package.json
+667 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/ytdl-core/package.json
+668 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/zod/package.json
+669 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aashutoshrathi/word-wrap/package.json
+670 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@adiwajshing/keyed-db/package.json
+671 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/client-cognito-identity/package.json
+672 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/client-sso/package.json
+673 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/client-sts/package.json
+674 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
+675 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-env/package.json
+676 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-ini/package.json
+677 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-node/package.json
+678 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-process/package.json
+679 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-sso/package.json
+680 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-provider-web-identity/package.json
+681 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/credential-providers/package.json
+682 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-host-header/package.json
+683 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-logger/package.json
+684 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-recursion-detection/package.json
+685 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-sdk-sts/package.json
+686 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-signing/package.json
+687 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/middleware-user-agent/package.json
+688 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/region-config-resolver/package.json
+689 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/token-providers/package.json
+690 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/types/package.json
+691 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/util-endpoints/package.json
+692 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/util-locate-window/package.json
+693 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/util-user-agent-browser/package.json
+694 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/util-user-agent-node/package.json
+695 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-sdk/util-utf8-browser/package.json
+696 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/crc32/package.json
+697 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/ie11-detection/package.json
+698 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/sha256-browser/package.json
+699 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/sha256-js/package.json
+700 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/supports-web-crypto/package.json
+701 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@aws-crypto/util/package.json
+702 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@babel/runtime/package.json
+703 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper/package.json
+704 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-bmkg/package.json
+705 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-downloader/package.json
+706 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-games/package.json
+707 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-images/package.json
+708 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-news/package.json
+709 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-others/package.json
+710 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-primbon/package.json
+711 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-religions/package.json
+712 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-sosmed/package.json
+713 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@bochilteam/scraper-texts/package.json
+714 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@brandond/findthelyrics/package.json
+715 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@discordjs/builders/package.json
+716 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@discordjs/collection/package.json
+717 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@eshaz/web-worker/package.json
+718 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@eslint/eslintrc/package.json
+719 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@eslint/js/package.json
+720 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@eslint-community/eslint-utils/package.json
+721 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@eslint-community/regexpp/package.json
+722 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@green-code/music-track-data/package.json
+723 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@humanwhocodes/config-array/package.json
+724 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@humanwhocodes/module-importer/package.json
+725 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@humanwhocodes/object-schema/package.json
+726 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@hapi/boom/package.json
+727 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@hapi/hoek/package.json
+728 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/bmp/package.json
+729 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/core/package.json
+730 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/custom/package.json
+731 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/gif/package.json
+732 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/jpeg/package.json
+733 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-blit/package.json
+734 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-blur/package.json
+735 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-circle/package.json
+736 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-color/package.json
+737 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-contain/package.json
+738 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-cover/package.json
+739 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-crop/package.json
+740 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-displace/package.json
+741 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-dither/package.json
+742 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-fisheye/package.json
+743 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-flip/package.json
+744 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-gaussian/package.json
+745 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-invert/package.json
+746 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-mask/package.json
+747 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-normalize/package.json
+748 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-print/package.json
+749 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-resize/package.json
+750 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-rotate/package.json
+751 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-scale/package.json
+752 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-shadow/package.json
+753 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugin-threshold/package.json
+754 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/plugins/package.json
+755 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/png/package.json
+756 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/tiff/package.json
+757 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/types/package.json
+758 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@jimp/utils/package.json
+759 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@mongodb-js/saslprep/package.json
+760 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/aspromise/package.json
+761 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/base64/package.json
+762 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/codegen/package.json
+763 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/eventemitter/package.json
+764 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/fetch/package.json
+765 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/float/package.json
+766 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/inquire/package.json
+767 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/path/package.json
+768 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/pool/package.json
+769 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@protobufjs/utf8/package.json
+770 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@nodelib/fs.scandir/package.json
+771 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@nodelib/fs.stat/package.json
+772 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@nodelib/fs.walk/package.json
+773 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@sapphire/async-queue/package.json
+774 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@sapphire/shapeshift/package.json
+775 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@shineiichijo/marika/package.json
+776 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@socket.io/component-emitter/package.json
+777 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@sindresorhus/is/package.json
+778 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@swc/helpers/package.json
+779 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@szmarczak/http-timer/package.json
+780 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@thi.ng/bitstream/package.json
+781 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@thi.ng/errors/package.json
+782 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/abort-controller/package.json
+783 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/config-resolver/package.json
+784 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/credential-provider-imds/package.json
+785 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/eventstream-codec/package.json
+786 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/fetch-http-handler/package.json
+787 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/hash-node/package.json
+788 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/invalid-dependency/package.json
+789 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/is-array-buffer/package.json
+790 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/middleware-content-length/package.json
+791 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/middleware-endpoint/package.json
+792 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/middleware-retry/package.json
+793 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/middleware-serde/package.json
+794 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/middleware-stack/package.json
+795 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/node-config-provider/package.json
+796 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/node-http-handler/package.json
+797 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/property-provider/package.json
+798 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/protocol-http/package.json
+799 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/querystring-builder/package.json
+800 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/querystring-parser/package.json
+801 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/service-error-classification/package.json
+802 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/shared-ini-file-loader/package.json
+803 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/signature-v4/package.json
+804 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/smithy-client/package.json
+805 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/types/package.json
+806 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/url-parser/package.json
+807 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-base64/package.json
+808 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-body-length-browser/package.json
+809 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-body-length-node/package.json
+810 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-buffer-from/package.json
+811 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-config-provider/package.json
+812 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-defaults-mode-browser/package.json
+813 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-defaults-mode-node/package.json
+814 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-hex-encoding/package.json
+815 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-middleware/package.json
+816 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-retry/package.json
+817 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-stream/package.json
+818 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-uri-escape/package.json
+819 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@smithy/util-utf8/package.json
+820 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@tootallnate/once/package.json
+821 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@tokenizer/token/package.json
+822 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@vitalets/google-translate-api/package.json
+823 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/cacheable-request/package.json
+824 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/cookie/package.json
+825 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/cors/package.json
+826 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/http-cache-semantics/package.json
+827 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/keyv/package.json
+828 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/long/package.json
+829 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/node/package.json
+830 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/node-fetch/package.json
+831 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/responselike/package.json
+832 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/webidl-conversions/package.json
+833 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/whatwg-url/package.json
+834 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@types/ws/package.json
+835 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@whiskeysockets/baileys/package.json
+836 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@wasm-audio-decoders/common/package.json
+837 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@wasm-audio-decoders/flac/package.json
+838 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@wasm-audio-decoders/ogg-vorbis/package.json
+839 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@xct007/frieren-scraper/package.json
+840 verbose installManyTop reading scoped package data from /home/runner/K15/node_modules/@xmldom/xmldom/package.json
+841 info package.json redstar@0.0.2 No README data
+842 info package.json @swc/helpers@0.3.17 No README data
+843 info package.json @wasm-audio-decoders/common@9.0.1 No README data
+844 info package.json buffer@5.7.1 buffer is also the name of a node core module.
+845 info package.json codec-parser@2.4.3 license should be a valid SPDX license expression
+846 info package.json dom-walk@0.1.2 No license field.
+847 info package.json exif-parser@0.1.12 No license field.
+848 info package.json fs@0.0.1-security fs is also the name of a node core module.
+849 info package.json min-document@2.19.0 No license field.
+850 info package.json npm@2.15.12 Non-dependency in bundleDependencies: ansi-regex
+851 info package.json npm@2.15.12 Non-dependency in bundleDependencies: imurmurhash
+852 info package.json perf_hooks@0.0.1 perf_hooks is also the name of a node core module.
+853 info package.json png-js@1.0.0 No license field.
+854 info package.json process@0.11.10 process is also the name of a node core module.
+855 info package.json punycode@2.3.0 punycode is also the name of a node core module.
+856 info package.json qrcode-terminal@0.12.0 No license field.
+857 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+858 info package.json querystring@0.2.0 No license field.
+859 info package.json readline@1.3.0 readline is also the name of a node core module.
+860 info package.json readline@1.3.0 license should be a valid SPDX license expression
+861 info package.json string_decoder@1.1.1 string_decoder is also the name of a node core module.
+862 info package.json ttys@0.0.3 No license field.
+863 info package.json url@0.11.3 url is also the name of a node core module.
+864 info package.json url-template@2.0.8 license should be a valid SPDX license expression
+865 info package.json @bochilteam/scraper@4.2.4 license should be a valid SPDX license expression
+866 info package.json @bochilteam/scraper-bmkg@1.0.2 license should be a valid SPDX license expression
+867 info package.json @bochilteam/scraper-games@1.0.2 license should be a valid SPDX license expression
+868 info package.json @bochilteam/scraper-downloader@1.0.2 license should be a valid SPDX license expression
+869 info package.json @bochilteam/scraper-news@1.0.2 license should be a valid SPDX license expression
+870 info package.json @bochilteam/scraper-images@1.0.2 license should be a valid SPDX license expression
+871 info package.json @bochilteam/scraper-others@1.0.2 license should be a valid SPDX license expression
+872 info package.json @bochilteam/scraper-primbon@1.0.2 license should be a valid SPDX license expression
+873 info package.json @bochilteam/scraper-religions@1.0.2 license should be a valid SPDX license expression
+874 info package.json @bochilteam/scraper-sosmed@1.0.5 license should be a valid SPDX license expression
+875 info package.json @bochilteam/scraper-texts@1.0.2 license should be a valid SPDX license expression
+876 info package.json @jimp/bmp@0.16.13 No repository field.
+877 info package.json @jimp/plugin-blit@0.16.13 No repository field.
+878 info package.json @jimp/gif@0.16.13 No repository field.
+879 info package.json @jimp/custom@0.16.13 No repository field.
+880 info package.json @jimp/jpeg@0.16.13 No repository field.
+881 info package.json @jimp/plugin-circle@0.16.13 No repository field.
+882 info package.json @jimp/plugin-blur@0.16.13 No repository field.
+883 info package.json @jimp/plugin-color@0.16.13 No repository field.
+884 info package.json @jimp/plugin-cover@0.16.13 No repository field.
+885 info package.json @jimp/plugin-contain@0.16.13 No repository field.
+886 info package.json @jimp/plugin-crop@0.16.13 No repository field.
+887 info package.json @jimp/plugin-dither@0.16.13 No repository field.
+888 info package.json @jimp/plugin-displace@0.16.13 No repository field.
+889 info package.json @jimp/plugin-flip@0.16.13 No repository field.
+890 info package.json @jimp/plugin-fisheye@0.16.13 No repository field.
+891 info package.json @jimp/plugin-invert@0.16.13 No repository field.
+892 info package.json @jimp/plugin-gaussian@0.16.13 No repository field.
+893 info package.json @jimp/plugin-mask@0.16.13 No repository field.
+894 info package.json @jimp/plugin-normalize@0.16.13 No repository field.
+895 info package.json @jimp/plugin-print@0.16.13 No repository field.
+896 info package.json @jimp/plugin-rotate@0.16.13 No repository field.
+897 info package.json @jimp/plugin-resize@0.16.13 No repository field.
+898 info package.json @jimp/plugin-shadow@0.16.13 No repository field.
+899 info package.json @jimp/plugin-scale@0.16.13 No repository field.
+900 info package.json @jimp/plugin-threshold@0.16.13 No repository field.
+901 info package.json @jimp/plugins@0.16.13 No repository field.
+902 info package.json @jimp/tiff@0.16.13 No repository field.
+903 info package.json @jimp/utils@0.16.13 No repository field.
+904 info package.json @jimp/png@0.16.13 No repository field.
+905 info package.json @jimp/types@0.16.13 No repository field.
+906 verbose readDependencies loading dependencies from /home/runner/K15/package.json
+907 silly cache add args [ '\\x63\\x68\\x65\\x65\\x72\\x69\\x6f', null ]
+908 verbose cache add spec \x63\x68\x65\x65\x72\x69\x6f
+909 silly cache add args [
+909 silly cache add   '\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69',
+909 silly cache add   null
+909 silly cache add ]
+910 verbose cache add spec \x40\x76\x69\x74\x61\x6c\x65\x74\x73\x2f\x67\x6f\x6f\x67\x6c\x65\x2d\x74\x72\x61\x6e\x73\x6c\x61\x74\x65\x2d\x61\x70\x69
+911 silly cache add args [ '\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68', null ]
+912 verbose cache add spec \x79\x74\x2d\x73\x65\x61\x72\x63\x68
+913 silly cache add args [ '\\x6f\\x70\\x65\\x6e\\x61\\x69', null ]
+914 verbose cache add spec \x6f\x70\x65\x6e\x61\x69
+915 silly cache add args [
+915 silly cache add   '\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73',
+915 silly cache add   null
+915 silly cache add ]
+916 verbose cache add spec \x2e\x2e\x2f\x6c\x69\x62\x2f\x79\x32\x64\x6c\x2e\x6a\x73
+917 silly cache add args [ '\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73', null ]
+918 verbose cache add spec \x70\x65\x72\x66\x5f\x68\x6f\x6f\x6b\x73
+919 silly cache add args [
+919 silly cache add   '\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+919 silly cache add   null
+919 silly cache add ]
+920 verbose cache add spec \x40\x62\x6f\x63\x68\x69\x6c\x74\x65\x61\x6d\x2f\x73\x63\x72\x61\x70\x65\x72
+921 silly cache add args [
+921 silly cache add   '\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73',
+921 silly cache add   null
+921 silly cache add ]
+922 verbose cache add spec \x40\x77\x68\x69\x73\x6b\x65\x79\x73\x6f\x63\x6b\x65\x74\x73\x2f\x62\x61\x69\x6c\x65\x79\x73
+923 silly cache add args [ '\\x6a\\x69\\x6d\\x70', null ]
+924 verbose cache add spec \x6a\x69\x6d\x70
+925 silly cache add args [ '\\x61\\x78\\x69\\x6f\\x73', null ]
+926 verbose cache add spec \x61\x78\x69\x6f\x73
+927 silly cache add args [ '\\x66\\x73', null ]
+928 verbose cache add spec \x66\x73
+929 silly cache add args [ '\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61', null ]
+930 verbose cache add spec \x66\x6f\x72\x6d\x2d\x64\x61\x74\x61
+931 silly cache add args [
+931 silly cache add   '\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65',
+931 silly cache add   null
+931 silly cache add ]
+932 verbose cache add spec \x68\x75\x6d\x61\x6e\x2d\x72\x65\x61\x64\x61\x62\x6c\x65
+933 silly cache add args [ '\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79', null ]
+934 verbose cache add spec \x73\x69\x6d\x69\x6c\x61\x72\x69\x74\x79
+935 silly cache add args [
+935 silly cache add   '\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+935 silly cache add   null
+935 silly cache add ]
+936 verbose cache add spec \x61\x70\x74\x6f\x69\x64\x65\x2d\x73\x63\x72\x61\x70\x65\x72
+937 silly cache add args [ '\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68', null ]
+938 verbose cache add spec \x6e\x6f\x64\x65\x2d\x66\x65\x74\x63\x68
+939 silly cache add args [ '\\x70\\x61\\x74\\x68', null ]
+940 verbose cache add spec \x70\x61\x74\x68
+941 silly cache add args [
+941 silly cache add   '\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73',
+941 silly cache add   null
+941 silly cache add ]
+942 verbose cache add spec \x69\x6d\x61\x67\x65\x6d\x61\x6b\x65\x72\x2e\x6a\x73
+943 silly cache add args [ '\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65', null ]
+944 verbose cache add spec \x79\x74\x64\x6c\x2d\x63\x6f\x72\x65
+945 silly cache add args [
+945 silly cache add   '\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73',
+945 silly cache add   null
+945 silly cache add ]
+946 verbose cache add spec \x63\x68\x69\x6c\x64\x5f\x70\x72\x6f\x63\x65\x73\x73
+947 silly cache add args [ '\\x75\\x74\\x69\\x6c', null ]
+948 verbose cache add spec \x75\x74\x69\x6c
+949 silly cache add args [ '\\x6f\\x73', null ]
+950 verbose cache add spec \x6f\x73
+951 silly cache add parsed spec Result {
+951 silly cache add   raw: '\\x63\\x68\\x65\\x65\\x72\\x69\\x6f',
+951 silly cache add   scope: null,
+951 silly cache add   name: null,
+951 silly cache add   rawSpec: '\\x63\\x68\\x65\\x65\\x72\\x69\\x6f',
+951 silly cache add   spec: '/home/runner/K15/\\x63\\x68\\x65\\x65\\x72\\x69\\x6f',
+951 silly cache add   type: 'local'
+951 silly cache add }
+952 silly cache add parsed spec Result {
+952 silly cache add   raw: '\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69',
+952 silly cache add   scope: null,
+952 silly cache add   name: null,
+952 silly cache add   rawSpec: '\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69',
+952 silly cache add   spec: '/home/runner/K15/\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69',
+952 silly cache add   type: 'local'
+952 silly cache add }
+953 silly cache add parsed spec Result {
+953 silly cache add   raw: '\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68',
+953 silly cache add   scope: null,
+953 silly cache add   name: null,
+953 silly cache add   rawSpec: '\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68',
+953 silly cache add   spec: '/home/runner/K15/\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68',
+953 silly cache add   type: 'local'
+953 silly cache add }
+954 silly cache add parsed spec Result {
+954 silly cache add   raw: '\\x6f\\x70\\x65\\x6e\\x61\\x69',
+954 silly cache add   scope: null,
+954 silly cache add   name: null,
+954 silly cache add   rawSpec: '\\x6f\\x70\\x65\\x6e\\x61\\x69',
+954 silly cache add   spec: '/home/runner/K15/\\x6f\\x70\\x65\\x6e\\x61\\x69',
+954 silly cache add   type: 'local'
+954 silly cache add }
+955 silly cache add parsed spec Result {
+955 silly cache add   raw: '\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73',
+955 silly cache add   scope: null,
+955 silly cache add   name: null,
+955 silly cache add   rawSpec: '\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73',
+955 silly cache add   spec: '/home/runner/K15/\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73',
+955 silly cache add   type: 'local'
+955 silly cache add }
+956 silly cache add parsed spec Result {
+956 silly cache add   raw: '\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73',
+956 silly cache add   scope: null,
+956 silly cache add   name: null,
+956 silly cache add   rawSpec: '\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73',
+956 silly cache add   spec: '/home/runner/K15/\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73',
+956 silly cache add   type: 'local'
+956 silly cache add }
+957 silly cache add parsed spec Result {
+957 silly cache add   raw: '\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+957 silly cache add   scope: null,
+957 silly cache add   name: null,
+957 silly cache add   rawSpec: '\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+957 silly cache add   spec: '/home/runner/K15/\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+957 silly cache add   type: 'local'
+957 silly cache add }
+958 silly cache add parsed spec Result {
+958 silly cache add   raw: '\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73',
+958 silly cache add   scope: null,
+958 silly cache add   name: null,
+958 silly cache add   rawSpec: '\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73',
+958 silly cache add   spec: '/home/runner/K15/\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73',
+958 silly cache add   type: 'local'
+958 silly cache add }
+959 silly cache add parsed spec Result {
+959 silly cache add   raw: '\\x6a\\x69\\x6d\\x70',
+959 silly cache add   scope: null,
+959 silly cache add   name: null,
+959 silly cache add   rawSpec: '\\x6a\\x69\\x6d\\x70',
+959 silly cache add   spec: '/home/runner/K15/\\x6a\\x69\\x6d\\x70',
+959 silly cache add   type: 'local'
+959 silly cache add }
+960 silly cache add parsed spec Result {
+960 silly cache add   raw: '\\x61\\x78\\x69\\x6f\\x73',
+960 silly cache add   scope: null,
+960 silly cache add   name: null,
+960 silly cache add   rawSpec: '\\x61\\x78\\x69\\x6f\\x73',
+960 silly cache add   spec: '/home/runner/K15/\\x61\\x78\\x69\\x6f\\x73',
+960 silly cache add   type: 'local'
+960 silly cache add }
+961 silly cache add parsed spec Result {
+961 silly cache add   raw: '\\x66\\x73',
+961 silly cache add   scope: null,
+961 silly cache add   name: null,
+961 silly cache add   rawSpec: '\\x66\\x73',
+961 silly cache add   spec: '/home/runner/K15/\\x66\\x73',
+961 silly cache add   type: 'local'
+961 silly cache add }
+962 silly cache add parsed spec Result {
+962 silly cache add   raw: '\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61',
+962 silly cache add   scope: null,
+962 silly cache add   name: null,
+962 silly cache add   rawSpec: '\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61',
+962 silly cache add   spec: '/home/runner/K15/\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61',
+962 silly cache add   type: 'local'
+962 silly cache add }
+963 silly cache add parsed spec Result {
+963 silly cache add   raw: '\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65',
+963 silly cache add   scope: null,
+963 silly cache add   name: null,
+963 silly cache add   rawSpec: '\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65',
+963 silly cache add   spec: '/home/runner/K15/\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65',
+963 silly cache add   type: 'local'
+963 silly cache add }
+964 silly cache add parsed spec Result {
+964 silly cache add   raw: '\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79',
+964 silly cache add   scope: null,
+964 silly cache add   name: null,
+964 silly cache add   rawSpec: '\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79',
+964 silly cache add   spec: '/home/runner/K15/\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79',
+964 silly cache add   type: 'local'
+964 silly cache add }
+965 silly cache add parsed spec Result {
+965 silly cache add   raw: '\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+965 silly cache add   scope: null,
+965 silly cache add   name: null,
+965 silly cache add   rawSpec: '\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+965 silly cache add   spec: '/home/runner/K15/\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72',
+965 silly cache add   type: 'local'
+965 silly cache add }
+966 silly cache add parsed spec Result {
+966 silly cache add   raw: '\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68',
+966 silly cache add   scope: null,
+966 silly cache add   name: null,
+966 silly cache add   rawSpec: '\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68',
+966 silly cache add   spec: '/home/runner/K15/\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68',
+966 silly cache add   type: 'local'
+966 silly cache add }
+967 silly cache add parsed spec Result {
+967 silly cache add   raw: '\\x70\\x61\\x74\\x68',
+967 silly cache add   scope: null,
+967 silly cache add   name: null,
+967 silly cache add   rawSpec: '\\x70\\x61\\x74\\x68',
+967 silly cache add   spec: '/home/runner/K15/\\x70\\x61\\x74\\x68',
+967 silly cache add   type: 'local'
+967 silly cache add }
+968 silly cache add parsed spec Result {
+968 silly cache add   raw: '\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73',
+968 silly cache add   scope: null,
+968 silly cache add   name: null,
+968 silly cache add   rawSpec: '\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73',
+968 silly cache add   spec: '/home/runner/K15/\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73',
+968 silly cache add   type: 'local'
+968 silly cache add }
+969 silly cache add parsed spec Result {
+969 silly cache add   raw: '\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65',
+969 silly cache add   scope: null,
+969 silly cache add   name: null,
+969 silly cache add   rawSpec: '\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65',
+969 silly cache add   spec: '/home/runner/K15/\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65',
+969 silly cache add   type: 'local'
+969 silly cache add }
+970 silly cache add parsed spec Result {
+970 silly cache add   raw: '\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73',
+970 silly cache add   scope: null,
+970 silly cache add   name: null,
+970 silly cache add   rawSpec: '\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73',
+970 silly cache add   spec: '/home/runner/K15/\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73',
+970 silly cache add   type: 'local'
+970 silly cache add }
+971 silly cache add parsed spec Result {
+971 silly cache add   raw: '\\x75\\x74\\x69\\x6c',
+971 silly cache add   scope: null,
+971 silly cache add   name: null,
+971 silly cache add   rawSpec: '\\x75\\x74\\x69\\x6c',
+971 silly cache add   spec: '/home/runner/K15/\\x75\\x74\\x69\\x6c',
+971 silly cache add   type: 'local'
+971 silly cache add }
+972 silly cache add parsed spec Result {
+972 silly cache add   raw: '\\x6f\\x73',
+972 silly cache add   scope: null,
+972 silly cache add   name: null,
+972 silly cache add   rawSpec: '\\x6f\\x73',
+972 silly cache add   spec: '/home/runner/K15/\\x6f\\x73',
+972 silly cache add   type: 'local'
+972 silly cache add }
+973 error addLocal Could not install /home/runner/K15/\x63\x68\x65\x65\x72\x69\x6f
+974 error addLocal Could not install /home/runner/K15/\x40\x76\x69\x74\x61\x6c\x65\x74\x73\x2f\x67\x6f\x6f\x67\x6c\x65\x2d\x74\x72\x61\x6e\x73\x6c\x61\x74\x65\x2d\x61\x70\x69
+975 error addLocal Could not install /home/runner/K15/\x79\x74\x2d\x73\x65\x61\x72\x63\x68
+976 error addLocal Could not install /home/runner/K15/\x6f\x70\x65\x6e\x61\x69
+977 error addLocal Could not install /home/runner/K15/\x2e\x2e\x2f\x6c\x69\x62\x2f\x79\x32\x64\x6c\x2e\x6a\x73
+978 error addLocal Could not install /home/runner/K15/\x70\x65\x72\x66\x5f\x68\x6f\x6f\x6b\x73
+979 error addLocal Could not install /home/runner/K15/\x40\x62\x6f\x63\x68\x69\x6c\x74\x65\x61\x6d\x2f\x73\x63\x72\x61\x70\x65\x72
+980 error addLocal Could not install /home/runner/K15/\x40\x77\x68\x69\x73\x6b\x65\x79\x73\x6f\x63\x6b\x65\x74\x73\x2f\x62\x61\x69\x6c\x65\x79\x73
+981 error addLocal Could not install /home/runner/K15/\x6a\x69\x6d\x70
+982 error addLocal Could not install /home/runner/K15/\x61\x78\x69\x6f\x73
+983 error addLocal Could not install /home/runner/K15/\x66\x73
+984 error addLocal Could not install /home/runner/K15/\x66\x6f\x72\x6d\x2d\x64\x61\x74\x61
+985 error addLocal Could not install /home/runner/K15/\x68\x75\x6d\x61\x6e\x2d\x72\x65\x61\x64\x61\x62\x6c\x65
+986 error addLocal Could not install /home/runner/K15/\x73\x69\x6d\x69\x6c\x61\x72\x69\x74\x79
+987 error addLocal Could not install /home/runner/K15/\x61\x70\x74\x6f\x69\x64\x65\x2d\x73\x63\x72\x61\x70\x65\x72
+988 error addLocal Could not install /home/runner/K15/\x6e\x6f\x64\x65\x2d\x66\x65\x74\x63\x68
+989 error addLocal Could not install /home/runner/K15/\x70\x61\x74\x68
+990 error addLocal Could not install /home/runner/K15/\x69\x6d\x61\x67\x65\x6d\x61\x6b\x65\x72\x2e\x6a\x73
+991 error addLocal Could not install /home/runner/K15/\x79\x74\x64\x6c\x2d\x63\x6f\x72\x65
+992 error addLocal Could not install /home/runner/K15/\x63\x68\x69\x6c\x64\x5f\x70\x72\x6f\x63\x65\x73\x73
+993 error addLocal Could not install /home/runner/K15/\x75\x74\x69\x6c
+994 error addLocal Could not install /home/runner/K15/\x6f\x73
+995 verbose stack Error: ENOENT: no such file or directory, open '/home/runner/K15/\x63\x68\x65\x65\x72\x69\x6f'
+996 verbose cwd /home/runner/K15
+997 error Linux 6.2.0-1018-gcp
+998 error argv "/nix/store/dj805sw07vvpbxx39c8g67x8qddg0ikw-nodejs-18.12.1/bin/node" "/home/runner/K15/node_modules/.bin/npm" "install" "\\x63\\x68\\x65\\x65\\x72\\x69\\x6f" "\\x40\\x76\\x69\\x74\\x61\\x6c\\x65\\x74\\x73\\x2f\\x67\\x6f\\x6f\\x67\\x6c\\x65\\x2d\\x74\\x72\\x61\\x6e\\x73\\x6c\\x61\\x74\\x65\\x2d\\x61\\x70\\x69" "\\x79\\x74\\x2d\\x73\\x65\\x61\\x72\\x63\\x68" "\\x6f\\x70\\x65\\x6e\\x61\\x69" "\\x2e\\x2e\\x2f\\x6c\\x69\\x62\\x2f\\x79\\x32\\x64\\x6c\\x2e\\x6a\\x73" "\\x70\\x65\\x72\\x66\\x5f\\x68\\x6f\\x6f\\x6b\\x73" "\\x40\\x62\\x6f\\x63\\x68\\x69\\x6c\\x74\\x65\\x61\\x6d\\x2f\\x73\\x63\\x72\\x61\\x70\\x65\\x72" "\\x40\\x77\\x68\\x69\\x73\\x6b\\x65\\x79\\x73\\x6f\\x63\\x6b\\x65\\x74\\x73\\x2f\\x62\\x61\\x69\\x6c\\x65\\x79\\x73" "\\x6a\\x69\\x6d\\x70" "\\x61\\x78\\x69\\x6f\\x73" "\\x66\\x73" "\\x66\\x6f\\x72\\x6d\\x2d\\x64\\x61\\x74\\x61" "\\x68\\x75\\x6d\\x61\\x6e\\x2d\\x72\\x65\\x61\\x64\\x61\\x62\\x6c\\x65" "\\x73\\x69\\x6d\\x69\\x6c\\x61\\x72\\x69\\x74\\x79" "\\x61\\x70\\x74\\x6f\\x69\\x64\\x65\\x2d\\x73\\x63\\x72\\x61\\x70\\x65\\x72" "\\x6e\\x6f\\x64\\x65\\x2d\\x66\\x65\\x74\\x63\\x68" "\\x70\\x61\\x74\\x68" "\\x69\\x6d\\x61\\x67\\x65\\x6d\\x61\\x6b\\x65\\x72\\x2e\\x6a\\x73" "\\x79\\x74\\x64\\x6c\\x2d\\x63\\x6f\\x72\\x65" "\\x63\\x68\\x69\\x6c\\x64\\x5f\\x70\\x72\\x6f\\x63\\x65\\x73\\x73" "\\x75\\x74\\x69\\x6c" "\\x6f\\x73"
+999 error node v18.12.1
+1000 error npm  v2.15.12
+1001 error path /home/runner/K15/\x63\x68\x65\x65\x72\x69\x6f
+1002 error code ENOENT
+1003 error errno -2
+1004 error syscall open
+1005 error enoent ENOENT: no such file or directory, open '/home/runner/K15/\x63\x68\x65\x65\x72\x69\x6f'
+1005 error enoent This is most likely not a problem with npm itself
+1005 error enoent and is related to npm not being able to find a file.
+1006 verbose exit [ -2, true ]

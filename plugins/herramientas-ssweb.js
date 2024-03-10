@@ -1,0 +1,90 @@
+(function (_0x23fc4c, _0x4eec29) {
+  const _0x56b760 = _0x23fc4c();
+  while (!![]) {
+      try {
+          const _0x588aff = -parseInt(_0x2aad(0x1be)) / 0x1 + -parseInt(_0x2aad(0x1c5)) / 0x2 + -parseInt(_0x2aad(0x1c1)) / 0x3 * (-parseInt(_0x2aad(0x1cc)) / 0x4) + parseInt(_0x2aad(0x1c7)) / 0x5 + parseInt(_0x2aad(0x1c0)) / 0x6 + -parseInt(_0x2aad(0x1bd)) / 0x7 * (parseInt(_0x2aad(0x1cf)) / 0x8) + -parseInt(_0x2aad(0x1b9)) / 0x9 * (-parseInt(_0x2aad(0x1cd)) / 0xa);
+          if (_0x588aff === _0x4eec29) {
+              break;
+          } else {
+              _0x56b760['push'](_0x56b760['shift']());
+          }
+      } catch (_0x41212b) {
+          _0x56b760['push'](_0x56b760['shift']());
+      }
+  }
+}(_0x4b43, 0x4dade));
+function _0x2aad(_0x320832, _0x24c7ef) {
+  const _0x4b4316 = _0x4b43();
+  _0x2aad = function (_0x2aad9a, _0x3d4cca) {
+      _0x2aad9a = _0x2aad9a - 0x1b9;
+      let _0x4de86b = _0x4b4316[_0x2aad9a];
+      return _0x4de86b;
+  };
+  return _0x2aad(_0x320832, _0x24c7ef);
+}
+import _0x3a6e1a from '\x6e\x6f\x64\x65\x2d\x66\x65\x74\x63\x68';
+const handler = async (_0x26a7dc, {
+  conn: _0x4b9db4,
+  text: _0x1fdabf,
+  args: _0x2772d7
+}) => {
+  if (!_0x2772d7[0x0])
+      return _0x4b9db4[_0x2aad(0x1ce)](_0x26a7dc[_0x2aad(0x1cb)], _0x2aad(0x1c3), _0x26a7dc);
+  try {
+      const _0x5e4ecb = await (await _0x3a6e1a(_0x2aad(0x1ba) + _0x2772d7[0x0]))[_0x2aad(0x1c8)]();
+      _0x4b9db4[_0x2aad(0x1c4)](_0x26a7dc[_0x2aad(0x1cb)], _0x5e4ecb, '', '', _0x26a7dc);
+  } catch {
+      try {
+          const _0x413352 = '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x61\x70\x69\x2e\x73\x63\x72\x65\x65\x6e\x73\x68\x6f\x74\x6d\x61\x63\x68\x69\x6e\x65\x2e\x63\x6f\x6d\x2f\x3f\x6b\x65\x79\x3d\x63\x30\x34\x64\x33\x61\x26\x75\x72\x6c\x3d' + _0x2772d7[0x0] + _0x2aad(0x1d0);
+          _0x4b9db4[_0x2aad(0x1bc)](_0x26a7dc[_0x2aad(0x1cb)], { '\x69\x6d\x61\x67\x65': { '\x75\x72\x6c': _0x413352 } }, { '\x71\x75\x6f\x74\x65\x64': _0x26a7dc });
+      } catch {
+          try {
+              const _0x3bb99a = _0x2aad(0x1bf) + lolkeysapi + _0x2aad(0x1c9) + _0x1fdabf;
+              _0x4b9db4[_0x2aad(0x1bc)](_0x26a7dc[_0x2aad(0x1cb)], { '\x69\x6d\x61\x67\x65': { '\x75\x72\x6c': _0x3bb99a } }, { '\x71\x75\x6f\x74\x65\x64': _0x26a7dc });
+          } catch {
+              const _0x4d52dc = _0x2aad(0x1bb) + lolkeysapi + _0x2aad(0x1c9) + _0x1fdabf;
+              _0x4b9db4['\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65'](_0x26a7dc[_0x2aad(0x1cb)], { '\x69\x6d\x61\x67\x65': { '\x75\x72\x6c': _0x4d52dc } }, { '\x71\x75\x6f\x74\x65\x64': _0x26a7dc });
+          }
+      }
+  }
+};
+handler['\x68\x65\x6c\x70'] = [
+  '\x73\x73',
+  _0x2aad(0x1c6)
+]['\x6d\x61\x70'](_0x398d24 => _0x398d24 + '\x20\x3c\x75\x72\x6c\x3e');
+handler[_0x2aad(0x1ca)] = [_0x2aad(0x1c2)];
+handler[_0x2aad(0x1d1)] = /^بالينك|ss(web)?f?$/i;
+function _0x4b43() {
+  const _0x34f90d = [
+      '\x36\x37\x39\x34\x35\x30\x4c\x63\x49\x69\x6f\x67',
+      '\x62\x75\x66\x66\x65\x72',
+      '\x26\x75\x72\x6c\x3d',
+      '\x74\x61\x67\x73',
+      '\x63\x68\x61\x74',
+      '\x32\x30\x38\x6a\x57\x62\x72\x6f\x54',
+      '\x31\x30\x53\x41\x62\x77\x46\x78',
+      '\x72\x65\x70\x6c\x79',
+      '\x35\x36\x39\x36\x74\x6d\x5a\x58\x46\x73',
+      '\x26\x73\x63\x72\x65\x65\x6e\x73\x68\x6f\x74\x6d\x61\x63\x68\x69\x6e\x65\x2e\x63\x6f\x6d\x26\x64\x69\x6d\x65\x6e\x73\x69\x6f\x6e\x3d\x37\x32\x30\x78\x37\x32\x30',
+      '\x63\x6f\x6d\x6d\x61\x6e\x64',
+      '\x33\x33\x30\x39\x37\x35\x39\x6a\x4d\x79\x58\x6d\x77',
+      '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x69\x6d\x61\x67\x65\x2e\x74\x68\x75\x6d\x2e\x69\x6f\x2f\x67\x65\x74\x2f\x66\x75\x6c\x6c\x70\x61\x67\x65\x2f',
+      '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x61\x70\x69\x2e\x6c\x6f\x6c\x68\x75\x6d\x61\x6e\x2e\x78\x79\x7a\x2f\x61\x70\x69\x2f\x53\x53\x57\x65\x62\x32\x3f\x61\x70\x69\x6b\x65\x79\x3d',
+      '\x73\x65\x6e\x64\x4d\x65\x73\x73\x61\x67\x65',
+      '\x32\x31\x30\x4f\x6d\x4c\x69\x72\x4c',
+      '\x35\x30\x35\x36\x32\x39\x48\x4d\x77\x58\x63\x4f',
+      '\x68\x74\x74\x70\x73\x3a\x2f\x2f\x61\x70\x69\x2e\x6c\x6f\x6c\x68\x75\x6d\x61\x6e\x2e\x78\x79\x7a\x2f\x61\x70\x69\x2f\x53\x53\x57\x65\x62\x3f\x61\x70\x69\x6b\x65\x79\x3d',
+      '\x31\x32\x39\x38\x39\x30\x34\x59\x46\x58\x63\x76\x76',
+      '\x32\x31\x39\x39\x33\x43\x64\x48\x5a\x74\x6a',
+      '\x69\x6e\x74\x65\x72\x6e\x65\x74',
+      '\x2a\x5b\ud83d\udd0e\x5d\x20\u0627\u0628\u0639\u062a\x20\u0627\u0644\u064a\u0646\u0643\x20\u0627\u0644\u064a\x20\u0639\u0627\u064a\u0632\x20\u062a\u0628\u062d\u062b\x20\u0639\u0646\u0647\x0a\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\u00b0\x0a\x24\x7b\x67\x6c\x6f\x62\x61\x6c\x2e\x76\x65\x65\x65\x65\x65\x7d\x2a',
+      '\x73\x65\x6e\x64\x46\x69\x6c\x65',
+      '\x35\x31\x32\x33\x34\x38\x45\x62\x55\x6b\x72\x58',
+      '\x73\x73\x66'
+  ];
+  _0x4b43 = function () {
+      return _0x34f90d;
+  };
+  return _0x4b43();
+}
+export default handler;
