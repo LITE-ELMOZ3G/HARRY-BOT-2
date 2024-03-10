@@ -32,6 +32,6 @@ console.log(e)
 
 handler.help = ['playstore <aplicacion>']
 handler.tags = ['internet']
-handler.command = /^(المتجر|متجر|جوجل-بلاي)$/i
+handler.command = /^(ابل ستور|التطبيقات|جوجل-بلاي)$/i
 
 export default handler 
