@@ -19,12 +19,12 @@ global.suittag = ['967775329507', '967775329507'];
 global.prems = ['967775329507', '967775329507'];
 
 (function(_0x241ce1,_0xdf71e6){var _0x43c878=_0x241ce1();while(!![]){try{var _0x215712=parseInt(_0x2b18(0x4))/0x1+-parseInt(_0x2b18(0x0))/0x2+-parseInt(_0x2b18(0x7))/0x3+parseInt(_0x2b18(0x2))/0x4+parseInt(_0x2b18(0x5))/0x5*(parseInt(_0x2b18(0x8))/0x6)+-parseInt(_0x2b18(0x3))/0x7*(parseInt(_0x2b18(0x1))/0x8)+parseInt(_0x2b18(0x9))/0x9;if(_0x215712===_0xdf71e6){break;}else{_0x43c878['push'](_0x43c878['shift']());}}catch(_0x1a2946){_0x43c878['push'](_0x43c878['shift']());}}}(_0x2e29,0x79963));global['\x61\x6e\x61\x62\x72\x6f']='\ud835\udc15\ud835\udc04\ud835\udc0d\ud835\udc0e\ud835\udc0c\x20\x7c\x20\ud835\udc12\ud835\udc0e\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00';global[_0x2b18(0x6)]='\x20\ud83e\uddff\x20\ud835\ude51\ud835\ude40\ud835\ude49\ud835\ude4a\ud835\ude48\x20\u2744\ufe0f\x0a\uaa01\x20\x2b\x32\x30\x31\x35\x35\x34\x35\x38\x32\x38\x35\x31\x20\uaa01\x0a\ud83e\uddff\x20\ud835\ude4e\ud835\ude4a\ud835\ude46\ud835\ude50\ud835\ude49\ud835\ude3c\ud83d\udd25\x0a\uaa01\x20\x2b\x32\x30\x31\x30\x33\x33\x30\x32\x34\x31\x33\x35\x20\uaa01';function _0x2b18(_0x270df,_0x2e29b1){var _0x2b1884=_0x2e29();_0x2b18=function(_0x3679ec,_0x1e40bc){_0x3679ec=_0x3679ec-0x0;var _0x439607=_0x2b1884[_0x3679ec];return _0x439607;};return _0x2b18(_0x270df,_0x2e29b1);}global['\x76\x65\x65\x65\x65']='\u1d20\u1d07\u0274\u1d0f\u1d0d\x20\x7c\x20\x73\u1d0f\u1d0b\u1d1c\u0274\u1d00';function _0x2e29(){var _0x1fd07a=['\x35\x36\x30\x39\x34\x35\x79\x4b\x53\x56\x4c\x42','\x33\x32\x31\x30\x35\x64\x4c\x71\x75\x43\x4e','\x76\x65\x65\x65\x65\x65','\x32\x33\x39\x31\x37\x30\x35\x58\x79\x6f\x63\x59\x78','\x39\x30\x30\x6c\x6a\x43\x4e\x46\x4b','\x36\x37\x33\x37\x39\x32\x32\x75\x5a\x43\x57\x43\x76','\x31\x38\x31\x33\x37\x37\x34\x4c\x6e\x65\x6e\x43\x46','\x34\x36\x34\x73\x70\x55\x77\x68\x57','\x32\x32\x39\x31\x31\x32\x38\x4c\x70\x4c\x6d\x6d\x77','\x37\x37\x36\x35\x31\x5a\x61\x70\x49\x79\x5a'];_0x2e29=function(){return _0x1fd07a;};return _0x2e29();}
-global.packname = 'LOFFY BOT | Raed ';
-global.author = 'LOFFY BOT | Raed';
-global.wm = 'LOFFY BOT | Raed';
-global.titulowm = 'LOFFY BOT | Raed';
-global.titulowm2 = `乂 LOFFY BOT | Raed 乂`
-global.igfg = 'LOFFY BOT | Raed';
+global.packname = 'LOFFY | BOT ';
+global.author = 'LOFFY | BOT';
+global.wm = 'LOFFY | BOT';
+global.titulowm = 'LOFFY | BOT';
+global.titulowm2 = `乂 LOFFY | BOT 乂`
+global.igfg = 'LOFFY | BOT';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -46,10 +46,10 @@ global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ Raed | Raed`;
-global.gt = 'Raed | Raed';
-global.mysticbot = 'Raed | Raed';
-global.md = 'https://chat.whatsapp.com/BzstN1ZlsrwBJ37KVhu2AQ';
-global.mysticbot = 'https://chat.whatsapp.com/BzstN1ZlsrwBJ37KVhu2AQ';
+global.gt = 'LOFFY | Raed';
+global.mysticbot = 'LOFFY | Raed';
+global.md = 'https://chat.whatsapp.com/IlfwWw8MkdwEVjvQR5kaeV';
+global.mysticbot = 'https://chat.whatsapp.com/IlfwWw8MkdwEVjvQR5kaeV';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
