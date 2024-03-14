@@ -12,8 +12,8 @@ global.owner = [
   ['967775329507', '🔥 Raed AL_nmany 🧿', true],
 ];
 // يمكنك تغير البرمجه من هنا كل ما عليك هوا تغير الاصفر مثل '✆⏐' تحط الزخرفه الخاصه بك مثل '★|•' هكذا 
-global.accc = 'LOFIY_BOT';
-global.avvv = '✆⏐ ';
+global.accc = '𝐿𝑈𝐹𝐹𝑌-𝐵𝛩𝑇';
+global.avvv = '*•┃❖';
 global.addd = '⦓           ⦓🏆⦔          ⦔ـ';
 global.suittag = ['967775329507', '967775329507'];
 global.prems = ['967775329507', '967775329507'];
