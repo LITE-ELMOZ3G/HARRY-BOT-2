@@ -18,5 +18,5 @@ m.reply(`${hasill.result}`.trim())
 } catch {        
 throw `*[❗] خطأ*`
 }}}}
-handler.command = [ 'ذكاء-اصطناعي' ,  'chatgpt' ,'شات جي بي تي' , 'تحدث ' ,'ai',  'تكلم' ]
+handler.command = [ 'ذكاء-اصطناعي' , 'شات جي بي تي' , 'تحدث ' ,'ai',  'تكلم' ]
 export default handler
