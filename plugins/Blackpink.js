@@ -24,6 +24,6 @@ handler.tags = ['image']
 
 handler.limit = false
 
-handler.command = /^(bpink|bp|blackpink)$/i
+handler.command = /^(بلاكبينك|bp|blackpink)$/i
 
 export default handler
